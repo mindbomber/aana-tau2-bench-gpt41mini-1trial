@@ -1,3 +1,15 @@
+---
+pretty_name: AANA tau2-Bench GPT-4.1-mini 1-trial custom submission
+license: mit
+tags:
+- aana
+- tau2-bench
+- agent-evaluation
+- tool-use
+- alignment
+- benchmark-results
+---
+
 # AANA Contract Gate + GPT-4.1-mini τ²-Bench Submission Artifact
 
 This artifact contains the official `tau2 submit prepare` output for a custom
@@ -31,6 +43,7 @@ Public references:
 - AANA demo Space: https://huggingface.co/spaces/mindbomber/aana-demo
 - AANA model card: https://huggingface.co/mindbomber/aana
 - AANA docs: https://mindbomber.github.io/Alignment-Aware-Neural-Architecture--AANA-/
+- Hugging Face artifact mirror: https://huggingface.co/datasets/mindbomber/aana-tau2-bench-gpt41mini-1trial
 
 Implementation reference:
 
