@@ -31,3 +31,7 @@ Public references:
 - AANA demo Space: https://huggingface.co/spaces/mindbomber/aana-demo
 - AANA model card: https://huggingface.co/mindbomber/aana
 - AANA docs: https://mindbomber.github.io/Alignment-Aware-Neural-Architecture--AANA-/
+
+Implementation reference:
+
+- `implementation/aana_contract_agent.py`
