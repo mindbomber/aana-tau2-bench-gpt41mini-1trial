@@ -52,6 +52,11 @@
       "title": "AANA public docs",
       "url": "https://mindbomber.github.io/Alignment-Aware-Neural-Architecture--AANA-/",
       "type": "documentation"
+    },
+    {
+      "title": "AANA tau2-bench scaffold and trajectories",
+      "url": "https://github.com/mindbomber/aana-tau2-bench-gpt41mini-1trial",
+      "type": "github"
     }
   ],
   "methodology": {
